@@ -13,10 +13,10 @@
 
 ## Deliverables
 
+- Sentiment Analysis of lyrics with RNN LSTM
 - Top words and/or sentences through Ngrams, frequency analysis
-- Sentiment Analysis of lyrics with VADER
 - Name entity recognition analysis
-- We will generate word clouds of the top words that appear in each music genre
+- Word clouds of the top words that appear in each music genre
 
 
 ## Resources
@@ -26,4 +26,6 @@
 
 ## Additional challenges
 
-If time allows, we'll consider implementing AWS into the project. One of the ideas so far is to create a bot that suggest song or genre.
+- If time allows, we'll consider implementing AWS into the project. One of the ideas so far is to create a bot that suggest song or genre.
+
+- Build a next word prediction algorithm using the music data from a specific genre
