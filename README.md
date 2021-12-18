@@ -27,6 +27,10 @@ RnB
 
 We obtained our lyric data from [Shazam Core API](https://rapidapi.com/tipsters/api/shazam-core/) at [RapidAPI.com](https://rapidapi.com/hub)
 
+The specific API endpoints used are:
+
+![endpoints](endpoints_shazam_api.png)
+
 
 ### Genre Top Song Charts
 
