@@ -9,21 +9,40 @@
 
 Access the genre of choice for notebook containing analysis:
 
-> [Country](country_nb/country_data.ipynb)
+[Country](country_nb/country_data.ipynb)
 
-> EDM
+EDM
 
-> Hip Hop
+Hip Hop
 
-> Rock
+Rock
 
-> RnB
+RnB
 
 # Natural Language Processing
+
+## Data Preprocessing
+
+### Data Acquisition
+
+We obtained our lyric data from [Shazam Core API](https://rapidapi.com/tipsters/api/shazam-core/) at [RapidAPI.com](https://rapidapi.com/hub)
+
+
+### Genre Top Song Charts
+
+![country](country_nb/images/top_songs_country.png)
+
+
+
 
 ## Sentiment Analysis
 
 ## Ngrams and Frequency Analysis
+
+### Top Word Frequency Analysis
+
+![country](country_nb/images/top_songs_country.png)
+
 
 ## Name entity recognition
 
