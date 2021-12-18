@@ -45,7 +45,7 @@ The specific API endpoints used are:
 
 ### Top Word Frequency Analysis
 
-![country](country_nb/images/top_songs_country.png)
+![country](country_nb/images/top_words_country.png)
 
 
 ## Name entity recognition
