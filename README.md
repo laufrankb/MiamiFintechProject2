@@ -34,7 +34,7 @@ The specific API endpoints used are:
 
 ### Genre Top Song Charts
 
-![country](country_nb/images/top_songs_country.png)
+![country](country_nb/images/top_artists_country.png)
 
 
 
