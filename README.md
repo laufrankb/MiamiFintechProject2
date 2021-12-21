@@ -36,9 +36,9 @@ The specific API endpoints used are:
 
 ![country](country_nb/images/top_artists_country.png)
 
-![Hip Hop](Monique_data/hiphoprap_topcharts.png)
+![Hip Hop](Monique_data/Images/hiphoprap_topcharts.png)
 
-![RnB](Monique_data/rnb_topcharts.png)
+![RnB](Monique_data/Images/rnb_topcharts.png)
 
 
 ## Sentiment Analysis
