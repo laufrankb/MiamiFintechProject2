@@ -13,11 +13,11 @@ Access the genre of choice for notebook containing analysis:
 
 EDM
 
-Hip Hop
+[Hip Hop](Monique_data/hiphopraplyrics.ipynb)
 
 Rock
 
-RnB
+[RnB](Monique_data/rnblyrics.ipynb)
 
 # Natural Language Processing
 
@@ -36,7 +36,9 @@ The specific API endpoints used are:
 
 ![country](country_nb/images/top_artists_country.png)
 
+![Hip Hop](Monique_data/hiphoprap_topcharts.png)
 
+![RnB](Monique_data/rnb_topcharts.png)
 
 
 ## Sentiment Analysis
@@ -56,6 +58,12 @@ The specific API endpoints used are:
 ### Country
 
 ![country](country_nb/images/country.png)
+
+- Hip Hop
+![Hip Hop](Monique_data/Images/hiphopboom.png)
+
+- RnB
+![RnB](Monique_data/Images/rnbart.png)
 
 
 ## Next Word Prediction
