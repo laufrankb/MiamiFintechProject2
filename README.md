@@ -60,9 +60,11 @@ The specific API endpoints used are:
 ![country](country_nb/images/country.png)
 
 ### Hip Hop
+
 ![Hip Hop](Monique_data/Images/hiphopboom.png)
 
 ### RnB
+
 ![RnB](Monique_data/Images/rnbart.png)
 
 
@@ -71,7 +73,12 @@ The specific API endpoints used are:
 - Next word prediction algorithm using the music data from a specific genre, using the following:
     - Markov Chains
     - Kneser Ney Interpolated algorithm
+    
+### Hip Hop Song via Markov Chains
+![Hip Hop](Monique_data/Images/hiphoprap_song.gif)
 
+### RnB Song via Markov Chains
+![RnB](Monique_data/Images/rnb_song.png)
 
 ---
 
