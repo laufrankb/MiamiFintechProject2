@@ -59,10 +59,10 @@ The specific API endpoints used are:
 
 ![country](country_nb/images/country.png)
 
-- Hip Hop
+### Hip Hop
 ![Hip Hop](Monique_data/Images/hiphopboom.png)
 
-- RnB
+### RnB
 ![RnB](Monique_data/Images/rnbart.png)
 
 
