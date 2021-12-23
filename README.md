@@ -13,11 +13,11 @@ Access the genre of choice for notebook containing analysis:
 
 EDM
 
-[Hip Hop](Monique_data/hiphopraplyrics.ipynb)
+[Hip Hop](hiphop_rnb_data/hiphopraplyrics.ipynb)
 
 Rock
 
-[RnB](Monique_data/rnblyrics.ipynb)
+[RnB](hiphop_rnb_data/rnblyrics.ipynb)
 
 # Natural Language Processing
 
@@ -36,9 +36,9 @@ The specific API endpoints used are:
 
 ![country](country_nb/images/top_artists_country.png)
 
-![Hip Hop](Monique_data/Images/hiphoprap_topcharts.png)
+![Hip Hop](hiphop_rnb_data/Images/hiphoprap_topcharts.png)
 
-![RnB](Monique_data/Images/rnb_topcharts.png)
+![RnB](hiphop_rnb_data/Images/rnb_topcharts.png)
 
 
 ## Sentiment Analysis
@@ -61,11 +61,11 @@ The specific API endpoints used are:
 
 ### Hip Hop
 
-![Hip Hop](Monique_data/Images/hiphopboom.png)
+![Hip Hop](hiphop_rnb_data/Images/hiphopboom.png)
 
 ### RnB
 
-![RnB](Monique_data/Images/rnbart.png)
+![RnB](hiphop_rnb_data/Images/rnbart.png)
 
 
 ## Next Word Prediction
@@ -75,10 +75,10 @@ The specific API endpoints used are:
     - Kneser Ney Interpolated algorithm
     
 ### Hip Hop Song via Markov Chains
-![Hip Hop](Monique_data/Images/hiphoprap_song.gif)
+![Hip Hop](hiphop_rnb_data/Images/hiphoprap_song.gif)
 
 ### RnB Song via Markov Chains
-![RnB](Monique_data/Images/rnb_song.png)
+![RnB](hiphop_rnb_data/Images/rnb_song.png)
 
 ---
 
