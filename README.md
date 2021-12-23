@@ -74,11 +74,6 @@ The specific API endpoints used are:
     - Markov Chains
     - Kneser Ney Interpolated algorithm
     
-### Hip Hop Song via Markov Chains
-![Hip Hop](hiphop_rnb_data/Images/hiphoprap_song.gif)
-
-### RnB Song via Markov Chains
-![RnB](hiphop_rnb_data/Images/rnb_song.png)
 
 ---
 
