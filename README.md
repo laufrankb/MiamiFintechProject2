@@ -58,12 +58,16 @@ The specific API endpoints used were:
 
 ![hiphop](hiphop_rnb_data/Images/top_words_hiphop_bar.png)
 
+![RnB](hiphop_rnb_data/Images/top_words_rnb_bar.png)
+
 
 ## Name entity recognition
 
 ![country-ner](country_nb/images/country_ner_freqs.png)
 
 ![hiphop](hiphop_rnb_data/Images/entities_count.png)
+
+![RnB](hiphop_rnb_data/Images/entities_count_rnb.png)
 
 ## Word clouds
 
