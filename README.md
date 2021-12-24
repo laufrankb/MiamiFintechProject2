@@ -34,7 +34,7 @@ The specific API endpoints used are:
 
 ### Genre Top Song Charts
 
-![country](country_nb/images/top_artists_country.png)
+![country-top-songs](country_nb/images/top_artists_country.png)
 
 ![Hip Hop](Monique_data/Images/hiphoprap_topcharts.png)
 
@@ -43,21 +43,24 @@ The specific API endpoints used are:
 
 ## Sentiment Analysis
 
+![country-sent](country_nb/images/country_sentiment_pie.png)
+
 ## Ngrams and Frequency Analysis
 
 ### Top Word Frequency Analysis
 
-![country](country_nb/images/top_words_country.png)
+![country-top-words](country_nb/images/top_words_country.png)
 
 
 ## Name entity recognition
 
+![country-ner](country_nb/images/country_ner_freqs.png)
 
 ## Word clouds
 
 ### Country
 
-![country](country_nb/images/country.png)
+![country-wc](country_nb/images/country.png)
 
 ### Hip Hop
 
@@ -75,9 +78,11 @@ The specific API endpoints used are:
     - Kneser Ney Interpolated algorithm
     
 ### Hip Hop Song via Markov Chains
+
 ![Hip Hop](Monique_data/Images/hiphoprap_song.gif)
 
 ### RnB Song via Markov Chains
+
 ![RnB](Monique_data/Images/rnb_song.png)
 
 ---
