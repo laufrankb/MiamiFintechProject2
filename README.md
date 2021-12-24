@@ -43,6 +43,11 @@ The specific API endpoints used are:
 
 ## Sentiment Analysis
 
+![Hip Hop](hiphop_rnb_data/Images/hiphop_sentiment.png)
+
+![RnB](hiphop_rnb_data/Images/rnb_sentiment.png)
+
+
 ## Ngrams and Frequency Analysis
 
 ### Top Word Frequency Analysis
