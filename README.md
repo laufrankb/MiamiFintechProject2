@@ -29,7 +29,7 @@ We obtained our lyric data from [Shazam Core API](https://rapidapi.com/tipsters/
 
 The specific API endpoints used were:
 
-![endpoints](endpoints_shazam_api.png)
+<img src="endpoints_shazam_api.png" alt="endpoints" height="400"/>
 
 
 ### Genre Top Song Charts
