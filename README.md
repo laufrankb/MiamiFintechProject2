@@ -27,7 +27,7 @@ Rock
 
 We obtained our lyric data from [Shazam Core API](https://rapidapi.com/tipsters/api/shazam-core/) at [RapidAPI.com](https://rapidapi.com/hub)
 
-The specific API endpoints used are:
+The specific API endpoints used were:
 
 ![endpoints](endpoints_shazam_api.png)
 
@@ -42,6 +42,8 @@ The specific API endpoints used are:
 
 
 ## Sentiment Analysis
+
+![country-sent](country_nb/images/country_sentiment_pie.png)
 
 ![Hip Hop](hiphop_rnb_data/Images/hiphop_sentiment.png)
 
@@ -58,6 +60,8 @@ The specific API endpoints used are:
 
 
 ## Name entity recognition
+
+![country-ner](country_nb/images/country_ner_freqs.png)
 
 ![hiphop](hiphop_rnb_data/Images/entities_count.png)
 
