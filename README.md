@@ -49,7 +49,8 @@ The specific API endpoints used are:
 
 ![country](country_nb/images/top_words_country.png)
 
-![hiphop](hiphop_rnb_data/Images/entities_count.png)
+![hiphop](hiphop_rnb_data/Images/top_words_hiphop_bar.png)
+
 
 ## Name entity recognition
 
