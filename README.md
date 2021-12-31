@@ -19,6 +19,8 @@ Rock
 
 [RnB](hiphop_rnb_data/rnblyrics.ipynb)
 
+[POP](hiphop_rnb_data/poplyrics.ipynb)
+
 # Natural Language Processing
 
 ## Data Preprocessing
@@ -40,14 +42,18 @@ The specific API endpoints used were:
 
 ![RnB](hiphop_rnb_data/Images/rnb_topcharts.png)
 
+![POP](hiphop_rnb_data/Images/pop_topcharts.png)
+
 
 ## Sentiment Analysis
 
 ![country-sent](country_nb/images/country_sentiment_pie.png)
 
-![Hip Hop](hiphop_rnb_data/Images/hiphop_sentiment.png)
+![Hip Hop](hiphop_rnb_data/Images/hiphop_sentiment_pie.png)
 
 ![RnB](hiphop_rnb_data/Images/rnb_sentiment.png)
+
+![POP](hiphop_rnb_data/Images/pop_sentiment.png)
 
 
 ## Ngrams and Frequency Analysis
@@ -60,6 +66,8 @@ The specific API endpoints used were:
 
 ![RnB](hiphop_rnb_data/Images/top_words_rnb_bar.png)
 
+![POP](hiphop_rnb_data/Images/top_words_pop_bar.png)
+
 
 ## Name entity recognition
 
@@ -68,6 +76,8 @@ The specific API endpoints used were:
 ![hiphop](hiphop_rnb_data/Images/entities_count.png)
 
 ![RnB](hiphop_rnb_data/Images/entities_count_rnb.png)
+
+![POP](hiphop_rnb_data/Images/entities_count_pop.png)
 
 ## Word clouds
 
@@ -82,6 +92,10 @@ The specific API endpoints used were:
 ### RnB
 
 ![RnB](hiphop_rnb_data/Images/rnbart.png)
+
+### POP
+
+![RnB](hiphop_rnb_data/Images/popwordcloud.png)
 
 
 ## Next Word Prediction
