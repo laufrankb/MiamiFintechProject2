@@ -73,7 +73,7 @@ The specific API endpoints used were:
 
 ![country-ner](country_nb/images/country_ner_freqs.png)
 
-![hiphop](hiphop_rnb_data/Images/entities_count.png)
+![hiphop](hiphop_rnb_data/Images/entities_count_hiphop.png)
 
 ![RnB](hiphop_rnb_data/Images/entities_count_rnb.png)
 
@@ -87,11 +87,11 @@ The specific API endpoints used were:
 
 ### Hip Hop
 
-![Hip Hop](hiphop_rnb_data/Images/hiphopboom.png)
+![Hip Hop](hiphop_rnb_data/Images/hiphopwordcloud.png)
 
 ### RnB
 
-![RnB](hiphop_rnb_data/Images/rnbart.png)
+![RnB](hiphop_rnb_data/Images/rnbartwordcloud.png)
 
 ### POP
 
