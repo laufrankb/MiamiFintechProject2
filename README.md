@@ -105,9 +105,7 @@ The specific API endpoints used were:
     - Maximum Estimator Algorithm
     
 
-### Country
-
-<video src="country_nb/country_mle_text.mp4" controls></audio>
+[AI Generated Country Lyrics](country_nb)
 
 ---
 
