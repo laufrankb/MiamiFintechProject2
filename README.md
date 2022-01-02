@@ -102,8 +102,12 @@ The specific API endpoints used were:
 
 - Next word prediction algorithm using the music data from a specific genre, using the following:
     - Markov Chains
-    - Kneser Ney Interpolated algorithm
+    - Maximum Estimator Algorithm
     
+
+### Country
+
+<audio src="country_nb/country_mle_text.mp3" controls></audio>
 
 ---
 
