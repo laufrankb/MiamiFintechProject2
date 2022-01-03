@@ -66,7 +66,7 @@ The specific API endpoints used were:
 
 ![country](country_nb/images/top_words_country.png)
 
-![EDM](edm_nb/Images/EDM_top_words.png)
+![EDM](edm_nb/Images/EDM_topwords.png)
 
 ![hiphop](hiphop_rnb_data/Images/top_words_hiphop_bar.png)
 
@@ -119,7 +119,8 @@ The specific API endpoints used were:
 
 ### AI Generated Country Lyrics
 https://user-images.githubusercontent.com/88758706/147867791-15da3590-8103-4dcc-8985-bb47984f72ad.mp4
-
+### AI Generated EDM Lyrics
+https://github.com/laufrankb/MiamiFintechProject2/blob/main/edm_nb/mle_lyrics_EDM.mp4
 ---
 
 ### Miami FinTech Bootcamp 2021-2022
