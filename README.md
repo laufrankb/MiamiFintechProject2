@@ -38,7 +38,7 @@ The specific API endpoints used were:
 
 ![country](country_nb/images/top_artists_country.png)
 
-![EDM](edm_nb/Images/EDM_top_artists.png)
+![EDM](edm_nb/Images/EDM_topartists.png)
 
 ![Hip Hop](hiphop_rnb_data/Images/hiphoprap_topcharts.png)
 
