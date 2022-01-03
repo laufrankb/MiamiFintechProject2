@@ -11,7 +11,7 @@ Access the genre of choice for notebook containing analysis:
 
 [Country](country_nb/country_data.ipynb)
 
-EDM
+[EDM] (EDM_nb/EDM3.ipynb)
 
 [Hip Hop](hiphop_rnb_data/hiphopraplyrics.ipynb)
 
@@ -38,6 +38,8 @@ The specific API endpoints used were:
 
 ![country](country_nb/images/top_artists_country.png)
 
+![EDM](EDM_nb/images/EDM_top_artists.png)
+
 ![Hip Hop](hiphop_rnb_data/Images/hiphoprap_topcharts.png)
 
 ![RnB](hiphop_rnb_data/Images/rnb_topcharts.png)
@@ -48,6 +50,8 @@ The specific API endpoints used were:
 ## Sentiment Analysis
 
 ![country-sent](country_nb/images/country_sentiment_pie.png)
+
+![EDM](EDM_nb/images/EDM_sentiment.png)
 
 ![Hip Hop](hiphop_rnb_data/Images/hiphop_sentiment_pie.png)
 
@@ -62,6 +66,8 @@ The specific API endpoints used were:
 
 ![country](country_nb/images/top_words_country.png)
 
+![EDM](EDM_nb/images/EDM_top_words.png)
+
 ![hiphop](hiphop_rnb_data/Images/top_words_hiphop_bar.png)
 
 ![RnB](hiphop_rnb_data/Images/top_words_rnb_bar.png)
@@ -72,6 +78,8 @@ The specific API endpoints used were:
 ## Name entity recognition
 
 ![country-ner](country_nb/images/country_ner_freqs.png)
+
+![EDM](EDM_nb/images/EDM_named_entities.png)
 
 ![hiphop](hiphop_rnb_data/Images/entities_count_hiphop.png)
 
@@ -84,6 +92,10 @@ The specific API endpoints used were:
 ### Country
 
 ![country](country_nb/images/country.png)
+
+### EDM
+
+!![EDM](EDM_nb/images/EDMwordcloud.png)
 
 ### Hip Hop
 
