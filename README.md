@@ -1,6 +1,6 @@
 # NLP & Machine Music
 
-![moremusic](https://user-images.githubusercontent.com/78571802/148003288-3e997b8c-1f0d-4869-b949-e3d58e4c2702.jpeg)
+![robot_sings](https://user-images.githubusercontent.com/78571802/148107819-8f5ad3b1-6885-480d-a8d8-ad4b296bfd87.jpeg)
 
 # Objectives
 
@@ -11,6 +11,7 @@
     - Named entity recognition
 - Become familiar with text prediction algorithms using machine learning
 - Explore text prediction methodologies
+
 
 # Notebooks
 
@@ -42,23 +43,27 @@ To view the summary for all genres, check out:
 
 ## Markov Chains: Randomized text prediction
 
-A Markov chain is a stochastic technique, but it differs from a general stochastic technique in that a Markov chain must be "memory-less." That is, (the probability of) future actions are not dependent upon the steps that led up to the present state. This is called the Markov property. While the theory of Markov chains is essential precisely because so many "everyday" processes satisfy the Markov property, there are many common examples of stochastic properties that do not meet the Markov property. [^1]
+A Markov chain is a stochastic technique, but it differs from a general stochastic technique in that a Markov chain must be "memory-less." That is, (the probability of) future actions are not dependent upon the steps that led up to the present state. This is called the Markov property. [^1]
 
 ![markovgif](https://user-images.githubusercontent.com/78571802/148003935-e50d8c96-3bd6-48b1-b883-f4007ac0b17b.gif)
 
 For more details, we recommend the following [video](https://www.youtube.com/watch?v=MGVdu39gT6k&t=394s&ab_channel=ADashofData).
 
+
 ## Language models with NLTK
+![natural_language_toolkit](https://user-images.githubusercontent.com/78571802/148105302-8f285e93-e08f-4b48-b993-8aaef522d9ea.png)
 
 For further reading, consider this [Medium Article](https://medium.com/swlh/language-modelling-with-nltk-20eac7e70853).
 
 Also refer to the [MLE documentation](https://www.nltk.org/api/nltk.lm.html).
 
 ## Maximum Likelihood Estimator from NLTK
+![Maximum_Likelihood_Estimation](https://user-images.githubusercontent.com/78571802/148105883-7d475804-d254-4285-8874-a88c22aec726.jpeg)
 
 This [article](https://www.kaggle.com/alvations/n-gram-language-model-with-nltk/notebook) served as a starting point to our endeavor in text prediction.
 
 Check out the [Language Model Module](https://www.nltk.org/api/nltk.lm.html) from NTLK for more information on the different models to choose from.
+
 
 # Natural Language Processing
 
@@ -94,6 +99,8 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 
 ![POP](hiphop_rnb_data/Images/pop_topcharts.png)
 
+![Rock](rock_nb/Images/rock_top_artists.png)
+
 
 ## Sentiment Analysis
 
@@ -106,6 +113,8 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 ![RnB](hiphop_rnb_data/Images/rnb_sentiment.png)
 
 ![POP](hiphop_rnb_data/Images/pop_sentiment.png)
+
+![Rock](rock_nb/Images/rock_sentiment_pie.png)
 
 
 ## Ngrams and Frequency Analysis
@@ -122,6 +131,8 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 
 ![POP](hiphop_rnb_data/Images/top_words_pop_bar.png)
 
+![Rock](rock_nb/Images/rock_top_words.png)
+
 
 ## Named Entity Recognition
 
@@ -134,6 +145,8 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 ![RnB](hiphop_rnb_data/Images/entities_count_rnb.png)
 
 ![POP](hiphop_rnb_data/Images/entities_count_pop.png)
+
+![Rock](rock_nb/Images/Rock_NER_entities.png)
 
 ## Word Clouds
 
@@ -157,12 +170,22 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 
 ![RnB](hiphop_rnb_data/Images/popwordcloud.png)
 
+### Rock
+
+![Rock](rock_nb/Images/Rock.png)
+
 
 ## Next Word Prediction
 
 We used Google's Text-To-Speech library to generate mp4 files of our Markov Chains and AI generated lyrics. 
 
 ![gtts](images/gtts.png)
+
+### Here is a look at our code with Markov Chains
+![markov_gif](https://user-images.githubusercontent.com/78571802/148111847-1577f6eb-9936-42cf-83cc-7abdd400b69d.gif)
+
+### Here is a look at our code with Maximum Likelihood Estimator
+![mle_gif](https://user-images.githubusercontent.com/78571802/148111899-4bfbd4e3-b225-4bc0-a1f3-46c8fdef0ee9.gif)
 
 Here are lyric snippets for each genre:
 
@@ -188,9 +211,17 @@ https://user-images.githubusercontent.com/78571802/147998991-dcebb568-14ed-433b-
 ### Snippet of Pop Markov
 https://user-images.githubusercontent.com/78571802/147999040-23548f23-577c-4792-980f-8c48bc1f1d18.mp4
 
+### Snippet of Rock Markov
+https://user-images.githubusercontent.com/86018812/148119641-90848fd8-6bd8-4d09-8b4a-1ccf039f0b4e.mp4
+
+### Pop Text MLE Algorithm
+https://user-images.githubusercontent.com/78571802/147999052-7a7eaa10-e389-4bdb-bf99-449a0c4c0fe0.mp4
 
 ### Snippet of Pop MLE Algorithm
-https://user-images.githubusercontent.com/78571802/147999052-7a7eaa10-e389-4bdb-bf99-449a0c4c0fe0.mp4
+https://user-images.githubusercontent.com/78571802/148133094-b3e24bdb-d81d-4384-857c-41e2964fb45f.mp4
+
+
+
 
 
 ### Model Scores
