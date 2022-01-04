@@ -213,6 +213,9 @@ These are the most used words in the Top Chart Songs for the analyzed genres:
 
 ![Top Words](all_genres/images/all_top_words.png)
 
+
+This is the word cloud for the most used words across genres:
+
 ![WC](all_genres/images/wc.png)
 
 ### *'like', 'yeah', 'know', 'got' and 'love' are the most used words across all analyzed genres.*
@@ -233,14 +236,13 @@ These are the frequencies of each Named Entity found in the Top Chart Songs for 
 
     ![limitations NER](country_nb/images/ner_limitations.png)
 
+
+---
+
+[^1]: https://brilliant.org/wiki/markov-chains/
+
 ---
 
 ### Miami FinTech Bootcamp 2021-2022
 
 #### Monique Ferguson, Andrew Hidalgo, Frank Lau and Marcela Castaño
-
-
-
-
-[^1]: https://brilliant.org/wiki/markov-chains/
-[^2]: https://www.kaggle.com/alvations/n-gram-language-model-with-nltk/notebook
