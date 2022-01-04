@@ -47,6 +47,8 @@ A Markov chain is a stochastic technique, but it differs from a general stochast
 
 ![markovgif](https://user-images.githubusercontent.com/78571802/148003935-e50d8c96-3bd6-48b1-b883-f4007ac0b17b.gif)
 
+![markov_diagram](https://user-images.githubusercontent.com/78571802/148133690-19f915e5-c53d-4169-99d2-61d1402faf05.png)
+
 For more details, we recommend the following [video](https://www.youtube.com/watch?v=MGVdu39gT6k&t=394s&ab_channel=ADashofData).
 
 
