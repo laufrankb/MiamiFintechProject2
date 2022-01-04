@@ -33,19 +33,19 @@ Rock
 
 # Predictive Models
 
-- Markov Chains: Randomized text prediction
+## Markov Chains: Randomized text prediction
 
 A Markov chain is a stochastic technique, but it differs from a general stochastic technique in that a Markov chain must be "memory-less." That is, (the probability of) future actions are not dependent upon the steps that led up to the present state. This is called the Markov property. While the theory of Markov chains is essential precisely because so many "everyday" processes satisfy the Markov property, there are many common examples of stochastic properties that do not meet the Markov property. [^1]
 
 For more details, we recommend the following [video](https://www.youtube.com/watch?v=MGVdu39gT6k&t=394s&ab_channel=ADashofData)
 
-- Language models with NLTK
+## Language models with NLTK
 
 For further reading, consider this [Medium Article](https://medium.com/swlh/language-modelling-with-nltk-20eac7e70853).
 
 Also refer to the [MLE documentation](https://www.nltk.org/api/nltk.lm.html).
 
-- Maximum Likelihood Estimator from NLTK
+## Maximum Likelihood Estimator from NLTK
 Check out this [article](https://www.nltk.org/api/nltk.lm.html) for more information on the MLE model.
 
 
