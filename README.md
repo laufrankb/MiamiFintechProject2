@@ -142,7 +142,7 @@ The specific API endpoints used were:
 
 - Next word prediction algorithm using the music data from a specific genre, using the following:
     - Markov Chains
-    - Maximum Estimator Algorithm
+    - Maximum Likelihood Estimator Algorithm
     
 
 ### Snippet of Country MLE Algorithm
@@ -154,12 +154,8 @@ https://user-images.githubusercontent.com/88758706/147998783-cf94e0ca-1ecc-458b-
 ### Snippet of Hip Hop Markov
 https://user-images.githubusercontent.com/78571802/147998097-49ba5026-94dd-4478-94f8-34065f5601de.mp4
 
-<<<<<<< HEAD
 ### Snippet of Hip Hop MLE Algorithm
 
-=======
-### Snippet of Hip Hop MLE
->>>>>>> b3b61c4090161f9caaf152530f18701bd434a7f0
 https://user-images.githubusercontent.com/78571802/147998169-11a84032-4863-4f35-a7e1-63434e5df615.mp4
 
 ### Snippet of RnB Markov
