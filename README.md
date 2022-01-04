@@ -1,6 +1,6 @@
 # NLP & Machine Music
 
-![moremusic](https://user-images.githubusercontent.com/78571802/148003288-3e997b8c-1f0d-4869-b949-e3d58e4c2702.jpeg)
+![robot_sings](https://user-images.githubusercontent.com/78571802/148107819-8f5ad3b1-6885-480d-a8d8-ad4b296bfd87.jpeg)
 
 # Objectives
 
@@ -11,6 +11,7 @@
     - Named entity recognition
 - Become familiar with text prediction algorithms using machine learning
 - Explore text prediction methodologies
+
 
 # Notebooks
 
