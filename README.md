@@ -1,4 +1,4 @@
-# NLP & Machine Music 🎵
+# NLP & Machine Music
 
 ![moremusic](https://user-images.githubusercontent.com/78571802/148003288-3e997b8c-1f0d-4869-b949-e3d58e4c2702.jpeg)
 
@@ -56,8 +56,9 @@ Also refer to the [MLE documentation](https://www.nltk.org/api/nltk.lm.html).
 
 ## Maximum Likelihood Estimator from NLTK
 
-Check out this [article](https://www.nltk.org/api/nltk.lm.html) for more information on the MLE model.
+This [article](https://www.kaggle.com/alvations/n-gram-language-model-with-nltk/notebook) served as a starting point to our endeavor in text prediction.
 
+Check out the [Language Model Module](https://www.nltk.org/api/nltk.lm.html) from NTLK for more information on the different models to choose from.
 
 # Natural Language Processing
 
@@ -158,7 +159,12 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 
 
 ## Next Word Prediction
-    
+
+We used Google's Text-To-Speech library to generate mp4 files of our Markov Chains and AI generated lyrics. 
+
+![gtts](gtts.png)
+
+Here are lyric snippets for each genre:
 
 ### Snippet of Country MLE Algorithm
 https://user-images.githubusercontent.com/88758706/147867791-15da3590-8103-4dcc-8985-bb47984f72ad.mp4
@@ -186,6 +192,11 @@ https://user-images.githubusercontent.com/78571802/147999040-23548f23-577c-4792-
 ### Snippet of Pop MLE Algorithm
 https://user-images.githubusercontent.com/78571802/147999052-7a7eaa10-e389-4bdb-bf99-449a0c4c0fe0.mp4
 
+
+### Model Scores
+
+
+
 ## Conclusions
 
 ### Summary of All Genres
@@ -204,7 +215,7 @@ These are the most used words in the Top Chart Songs for the analyzed genres:
 
 ![WC](all_genres/images/wc.png)
 
-### *Notice that 'like', 'yeah', 'know', 'got' and 'love' are the most used words across all analyzed genres.*
+### *'like', 'yeah', 'know', 'got' and 'love' are the most used words across all analyzed genres.*
 
 <br>
 
@@ -215,10 +226,6 @@ These are the frequencies of each Named Entity found in the Top Chart Songs for 
 ### *The main focus across the analyzed genres seems to be **people***
 
 <br>
-
-### Model Scores
-
-
 
 ### Limitations
 
@@ -236,3 +243,4 @@ These are the frequencies of each Named Entity found in the Top Chart Songs for 
 
 
 [^1]: https://brilliant.org/wiki/markov-chains/
+[^2]: https://www.kaggle.com/alvations/n-gram-language-model-with-nltk/notebook
