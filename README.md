@@ -194,7 +194,7 @@ Here are the overall results for the sentiment analysis:
 
 ![Sentiment](all_genres/images/overall_sentiment_pie.png)
 
-## *VADER concluded that most of the top chart songs across genres were **Positive***
+### *VADER concluded that most of the top chart songs across genres were **Positive***
 
 <br>
 
@@ -204,7 +204,7 @@ These are the most used words in the Top Chart Songs for the analyzed genres:
 
 ![WC](all_genres/images/wc.png)
 
-## *Notice that 'like', 'yeah', 'know', 'got' and 'love' are the most used words across all analyzed genres.*
+### *Notice that 'like', 'yeah', 'know', 'got' and 'love' are the most used words across all analyzed genres.*
 
 <br>
 
@@ -212,7 +212,7 @@ These are the frequencies of each Named Entity found in the Top Chart Songs for 
 
 ![Entities](all_genres/images/all_entities.png)
 
-## *The main focus across the analyzed genres seems to be **people***
+### *The main focus across the analyzed genres seems to be **people***
 
 <br>
 
