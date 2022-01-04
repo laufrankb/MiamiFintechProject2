@@ -214,10 +214,13 @@ https://user-images.githubusercontent.com/78571802/147999040-23548f23-577c-4792-
 ### Snippet of Rock Markov
 https://user-images.githubusercontent.com/86018812/148119641-90848fd8-6bd8-4d09-8b4a-1ccf039f0b4e.mp4
 
-
-
 ### Pop Text MLE Algorithm
 https://user-images.githubusercontent.com/78571802/147999052-7a7eaa10-e389-4bdb-bf99-449a0c4c0fe0.mp4
+
+### Snippet of Pop MLE Algorithm
+https://user-images.githubusercontent.com/78571802/148133094-b3e24bdb-d81d-4384-857c-41e2964fb45f.mp4
+
+
 
 
 
