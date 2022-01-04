@@ -68,7 +68,7 @@ We obtained our lyric data from [Shazam Core API](https://rapidapi.com/tipsters/
 
 The specific API endpoints used were:
 
-<img src="endpoints_shazam_api.png" alt="endpoints" height="400"/>
+<img src="images/endpoints_shazam_api.png" alt="endpoints" height="400"/>
 
 - **@ World Chart by Genre** endpoint: 
     - feed a genre and the limit number of songs to retrieve
@@ -80,7 +80,7 @@ The specific API endpoints used were:
 
 We then generated a dataframe with the lyrics and dropped any chart songs for which lyrics could not be obtained through the API.
 
-![lyrics df](lyrics_df.png)
+![lyrics df](images/lyrics_df.png)
 
 ### Genre Top Song Charts
 
@@ -162,7 +162,7 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 
 We used Google's Text-To-Speech library to generate mp4 files of our Markov Chains and AI generated lyrics. 
 
-![gtts](gtts.png)
+![gtts](images/gtts.png)
 
 Here are lyric snippets for each genre:
 
@@ -195,7 +195,43 @@ https://user-images.githubusercontent.com/78571802/147999052-7a7eaa10-e389-4bdb-
 
 ### Model Scores
 
+*MLE is an N-gram model Algorithm*
 
+![scores](images/n-gram-modeling.png)
+
+
+Some examples from the Country Lyrics Model:
+
+> The probability of 'woman' appearing in the text is: 0.00139
+
+> The probability of 'feel like' to be followed by 'a' is: 0.5
+
+> The probability of 'feel like a' to be followed by woman' is: 1.0
+
+![unigram](country_nb/images/unigram_scores_mle.png)
+
+![jingle](country_nb/images/jingle-mle-scores.png)
+
+
+#### Perplexity
+
+![perplexity](images/perplexity.png)
+
+> From the Country Lyrics Model:
+
+> The perplexity of 'aliens are' is: inf
+
+> The perplexity of 'old man' is: 7.667
+
+> The perplexity of 'bell rock' is: 3.4
+
+> The perplexity of 'jingle bell' is: 1.333
+
+> The perplexity of 'country boy' is: 1.273
+
+
+
+Feel free to read up more on [Perplexity and Language Models](https://towardsdatascience.com/perplexity-in-language-models-87a196019a94) or watch this [video](https://www.youtube.com/watch?v=NCyCkgMLRiY&ab_channel=ArtificialIntelligence-AllinOne).
 
 ## Conclusions
 
@@ -232,17 +268,17 @@ These are the frequencies of each Named Entity found in the Top Chart Songs for 
 
 ### Limitations
 
+
+- Detokenizer: Returned text is readable, but lacking in punctuation and paragraph structure.
+
 - NER: The Person and GPE Named entities were greatly mis-identified by the Spacy's NER. The image below is from the country dataset.
 
     ![limitations NER](country_nb/images/ner_limitations.png)
-
-
----
-
-[^1]: https://brilliant.org/wiki/markov-chains/
 
 ---
 
 ### Miami FinTech Bootcamp 2021-2022
 
 #### Monique Ferguson, Andrew Hidalgo, Frank Lau and Marcela Castaño
+
+[^1]: https://brilliant.org/wiki/markov-chains/
