@@ -49,6 +49,9 @@ A Markov chain is a stochastic technique, but it differs from a general stochast
 
 For more details, we recommend the following [video](https://www.youtube.com/watch?v=MGVdu39gT6k&t=394s&ab_channel=ADashofData).
 
+### We used Markov Chains for randomized text prediction. Here is a look at our code
+![markovgif](https://user-images.githubusercontent.com/78571802/148110163-71c39ecf-9b5e-4432-81d2-425b1515355b.gif)
+
 ## Language models with NLTK
 ![natural_language_toolkit](https://user-images.githubusercontent.com/78571802/148105302-8f285e93-e08f-4b48-b993-8aaef522d9ea.png)
 
