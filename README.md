@@ -1,6 +1,6 @@
-# NLP & Machine Music
-![moremusic](https://user-images.githubusercontent.com/78571802/148003288-3e997b8c-1f0d-4869-b949-e3d58e4c2702.jpeg)
+# NLP & Machine Music 🎵
 
+![moremusic](https://user-images.githubusercontent.com/78571802/148003288-3e997b8c-1f0d-4869-b949-e3d58e4c2702.jpeg)
 
 # Objectives
 
@@ -8,10 +8,9 @@
     - Tokenization
     - Sentiment analysis
     - N-grams, frequency analysis
-    - Name entity recognition
+    - Named entity recognition
 - Become familiar with text prediction algorithms using machine learning
 - Explore text prediction methodologies
-
 
 # Notebooks
 
@@ -23,22 +22,31 @@ Access the genre of choice for notebook containing analysis:
 
 [Hip Hop](hiphop_rnb_data/hiphopraplyrics.ipynb)
 
-Rock
+[Rock](rock_nb/rock_data.ipynb)
 
 [RnB](hiphop_rnb_data/rnblyrics.ipynb)
 
 [POP](hiphop_rnb_data/poplyrics.ipynb)
 
 
+To view the summary for all genres, check out:
+
+[Visualizations for All Genres](all_genres/all_genres_nb.ipynb)
+
+
 # Predictive Models
+
+- We carried out next word prediction algorithm using the music data from a specific genre, using the following:
+    - Markov Chains
+    - Maximum Likelihood Estimator Algorithm
 
 ## Markov Chains: Randomized text prediction
 
 A Markov chain is a stochastic technique, but it differs from a general stochastic technique in that a Markov chain must be "memory-less." That is, (the probability of) future actions are not dependent upon the steps that led up to the present state. This is called the Markov property. While the theory of Markov chains is essential precisely because so many "everyday" processes satisfy the Markov property, there are many common examples of stochastic properties that do not meet the Markov property. [^1]
+
 ![markovgif](https://user-images.githubusercontent.com/78571802/148003935-e50d8c96-3bd6-48b1-b883-f4007ac0b17b.gif)
 
-
-For more details, we recommend the following [video](https://www.youtube.com/watch?v=MGVdu39gT6k&t=394s&ab_channel=ADashofData)
+For more details, we recommend the following [video](https://www.youtube.com/watch?v=MGVdu39gT6k&t=394s&ab_channel=ADashofData).
 
 ## Language models with NLTK
 
@@ -47,6 +55,7 @@ For further reading, consider this [Medium Article](https://medium.com/swlh/lang
 Also refer to the [MLE documentation](https://www.nltk.org/api/nltk.lm.html).
 
 ## Maximum Likelihood Estimator from NLTK
+
 Check out this [article](https://www.nltk.org/api/nltk.lm.html) for more information on the MLE model.
 
 
@@ -54,14 +63,23 @@ Check out this [article](https://www.nltk.org/api/nltk.lm.html) for more informa
 
 ## Data Preprocessing
 
-### Data Acquisition
-
 We obtained our lyric data from [Shazam Core API](https://rapidapi.com/tipsters/api/shazam-core/) at [RapidAPI.com](https://rapidapi.com/hub)
 
 The specific API endpoints used were:
 
 <img src="endpoints_shazam_api.png" alt="endpoints" height="400"/>
 
+- **@ World Chart by Genre** endpoint: 
+    - feed a genre and the limit number of songs to retrieve
+    - obtain top chart for genre with trackID, artist, song name
+
+- **@Track Details** endpoint:
+    - feed trackID
+    - obtain lyrics for song
+
+We then generated a dataframe with the lyrics and dropped any chart songs for which lyrics could not be obtained through the API.
+
+![lyrics df](lyrics_df.png)
 
 ### Genre Top Song Charts
 
@@ -104,7 +122,7 @@ The specific API endpoints used were:
 ![POP](hiphop_rnb_data/Images/top_words_pop_bar.png)
 
 
-## Name entity recognition
+## Named Entity Recognition
 
 ![country-ner](country_nb/images/country_ner_freqs.png)
 
@@ -116,7 +134,7 @@ The specific API endpoints used were:
 
 ![POP](hiphop_rnb_data/Images/entities_count_pop.png)
 
-## Word clouds
+## Word Clouds
 
 ### Country
 
@@ -140,10 +158,6 @@ The specific API endpoints used were:
 
 
 ## Next Word Prediction
-
-- Next word prediction algorithm using the music data from a specific genre, using the following:
-    - Markov Chains
-    - Maximum Likelihood Estimator Algorithm
     
 
 ### Snippet of Country MLE Algorithm
@@ -176,7 +190,41 @@ https://user-images.githubusercontent.com/78571802/147999052-7a7eaa10-e389-4bdb-
 
 ### Summary of All Genres
 
+Here are the overall results for the sentiment analysis:
 
+![Sentiment](all_genres/images/overall_sentiment_pie.png)
+
+## *VADER concluded that most of the top chart songs across genres were **Positive***
+
+<br>
+
+These are the most used words in the Top Chart Songs for the analyzed genres:
+
+![Top Words](all_genres/images/all_top_words.png)
+
+![WC](all_genres/images/wc.png)
+
+## *Notice that 'like', 'yeah', 'know', 'got' and 'love' are the most used words across all analyzed genres.*
+
+<br>
+
+These are the frequencies of each Named Entity found in the Top Chart Songs for all genres:
+
+![Entities](all_genres/images/all_entities.png)
+
+## *The main focus across the analyzed genres seems to be **people***
+
+<br>
+
+### Model Scores
+
+
+
+### Limitations
+
+- NER: The Person and GPE Named entities were greatly mis-identified by the Spacy's NER. The image below is from the country dataset.
+
+    ![limitations NER](country_nb/images/ner_limitations.png)
 
 ---
 

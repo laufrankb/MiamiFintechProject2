@@ -1,0 +1,16 @@
+Named_Entity,Count,Genre
+PERSON,108,Country
+ORG,51,Country
+GPE,60,Country
+CARDINAL,57,Country
+DATE,21,Country
+PRODUCT,9,Country
+TIME,32,Country
+WORK_OF_ART,4,Country
+ORDINAL,13,Country
+FAC,5,Country
+LOC,13,Country
+MONEY,1,Country
+QUANTITY,5,Country
+NORP,3,Country
+EVENT,3,Country

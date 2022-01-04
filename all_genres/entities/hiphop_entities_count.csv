@@ -1,0 +1,16 @@
+Named_Entity,Count,Genre
+PERSON,187,Hip-Hop
+ORG,153,Hip-Hop
+GPE,107,Hip-Hop
+CARDINAL,68,Hip-Hop
+DATE,31,Hip-Hop
+TIME,21,Hip-Hop
+WORK_OF_ART,14,Hip-Hop
+PRODUCT,13,Hip-Hop
+ORDINAL,8,Hip-Hop
+NORP,6,Hip-Hop
+FAC,6,Hip-Hop
+QUANTITY,4,Hip-Hop
+MONEY,4,Hip-Hop
+LOC,1,Hip-Hop
+EVENT,1,Hip-Hop
