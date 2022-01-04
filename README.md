@@ -228,7 +228,7 @@ https://user-images.githubusercontent.com/78571802/148133094-b3e24bdb-d81d-4384-
 
 *MLE is an N-gram model Algorithm*
 
-![scores](images/n-gram-modeling.png)
+![scores](images/n-gram-modeling.PNG)
 
 
 Some examples from the Country Lyrics Model:
