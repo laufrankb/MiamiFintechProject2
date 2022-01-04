@@ -103,6 +103,8 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 
 ![POP](hiphop_rnb_data/Images/pop_topcharts.png)
 
+![Rock](rock_nb/Images/top_rock_artists.png)
+
 
 ## Sentiment Analysis
 
@@ -115,6 +117,8 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 ![RnB](hiphop_rnb_data/Images/rnb_sentiment.png)
 
 ![POP](hiphop_rnb_data/Images/pop_sentiment.png)
+
+![Rock](rock_nb/Images/rock_sentiment_pie.png)
 
 
 ## Ngrams and Frequency Analysis
@@ -131,6 +135,8 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 
 ![POP](hiphop_rnb_data/Images/top_words_pop_bar.png)
 
+![Rock](rock_nb/Images/rock_top_words.png)
+
 
 ## Named Entity Recognition
 
@@ -143,6 +149,8 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 ![RnB](hiphop_rnb_data/Images/entities_count_rnb.png)
 
 ![POP](hiphop_rnb_data/Images/entities_count_pop.png)
+
+![Rock](rock_nb/Images/Rock_NER_entities.png)
 
 ## Word Clouds
 
@@ -165,6 +173,10 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 ### POP
 
 ![RnB](hiphop_rnb_data/Images/popwordcloud.png)
+
+### Rock
+
+![Rock](rock_nb/Images/Rock.png)
 
 
 ## Next Word Prediction
