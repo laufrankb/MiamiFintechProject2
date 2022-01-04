@@ -121,23 +121,26 @@ The specific API endpoints used were:
 https://user-images.githubusercontent.com/88758706/147867791-15da3590-8103-4dcc-8985-bb47984f72ad.mp4
 
 ### AI Generated EDM Lyrics
-
 https://user-images.githubusercontent.com/88758706/147998783-cf94e0ca-1ecc-458b-afba-5ed73c1e9237.mp4
 
 ### Snippet of Hip Hop Markov
-
 https://user-images.githubusercontent.com/78571802/147998097-49ba5026-94dd-4478-94f8-34065f5601de.mp4
 
 ### Snippet of Hip Hop Maximum Estimator Algorithm
-
 https://user-images.githubusercontent.com/78571802/147998169-11a84032-4863-4f35-a7e1-63434e5df615.mp4
 
 ### Snippet of RnB Markov
-
 https://user-images.githubusercontent.com/78571802/147998248-55b7fc05-d831-4fc8-82c4-36b73ca5e0b6.mp4
 
+### Snippet of RnB Maximum Estimator Algorithm
+https://user-images.githubusercontent.com/78571802/147998991-dcebb568-14ed-433b-8bce-310863c86a1a.mp4
+
+### Snippet of Pop Markov
+https://user-images.githubusercontent.com/78571802/147999040-23548f23-577c-4792-980f-8c48bc1f1d18.mp4
 
 
+### Snippet of Pop Maximum Estimator Algorithm
+https://user-images.githubusercontent.com/78571802/147999052-7a7eaa10-e389-4bdb-bf99-449a0c4c0fe0.mp4
 
 
 ---
