@@ -10,7 +10,7 @@
     - N-grams, frequency analysis
     - Named entity recognition
 - Become familiar with text prediction algorithms using machine learning
-- Explore text prediction methodologies![Uploading robot_sings.jpeg…]()
+- Explore text prediction methodologies
 
 
 # Notebooks
