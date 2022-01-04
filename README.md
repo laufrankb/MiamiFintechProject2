@@ -99,7 +99,7 @@ We then generated a dataframe with the lyrics and dropped any chart songs for wh
 
 ![POP](hiphop_rnb_data/Images/pop_topcharts.png)
 
-![Rock](rock_nb/Images/top_rock_artists.png)
+![Rock](rock_nb/Images/rock_top_artists.png)
 
 
 ## Sentiment Analysis
@@ -259,12 +259,13 @@ These are the frequencies of each Named Entity found in the Top Chart Songs for 
 
     ![limitations NER](country_nb/images/ner_limitations.png)
 
+
+---
+
+[^1]: https://brilliant.org/wiki/markov-chains/
+
 ---
 
 ### Miami FinTech Bootcamp 2021-2022
 
 #### Monique Ferguson, Andrew Hidalgo, Frank Lau and Marcela Castaño
-
----
-
-[^1]: https://brilliant.org/wiki/markov-chains/
