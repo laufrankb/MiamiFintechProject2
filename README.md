@@ -121,6 +121,23 @@ The specific API endpoints used were:
 https://user-images.githubusercontent.com/88758706/147867791-15da3590-8103-4dcc-8985-bb47984f72ad.mp4
 ### AI Generated EDM Lyrics
 https://github.com/laufrankb/MiamiFintechProject2/blob/9a8da13b8c942c8381ba97332591355d6a127f8f/edm_nb/mle_lyrics_EDM.mp4
+
+### Snippet of Hip Hop Markov
+
+https://user-images.githubusercontent.com/78571802/147998097-49ba5026-94dd-4478-94f8-34065f5601de.mp4
+
+### Snippet of Hip Hop Maximum Estimator Algorithm
+
+https://user-images.githubusercontent.com/78571802/147998169-11a84032-4863-4f35-a7e1-63434e5df615.mp4
+
+### Snippet of RnB Markov
+
+https://user-images.githubusercontent.com/78571802/147998248-55b7fc05-d831-4fc8-82c4-36b73ca5e0b6.mp4
+
+
+
+
+
 ---
 
 ### Miami FinTech Bootcamp 2021-2022
