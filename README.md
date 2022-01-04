@@ -42,19 +42,21 @@ To view the summary for all genres, check out:
 
 ## Markov Chains: Randomized text prediction
 
-A Markov chain is a stochastic technique, but it differs from a general stochastic technique in that a Markov chain must be "memory-less." That is, (the probability of) future actions are not dependent upon the steps that led up to the present state. This is called the Markov property. While the theory of Markov chains is essential precisely because so many "everyday" processes satisfy the Markov property, there are many common examples of stochastic properties that do not meet the Markov property. [^1]
+A Markov chain is a stochastic technique, but it differs from a general stochastic technique in that a Markov chain must be "memory-less." That is, (the probability of) future actions are not dependent upon the steps that led up to the present state. This is called the Markov property. [^1]
 
 ![markovgif](https://user-images.githubusercontent.com/78571802/148003935-e50d8c96-3bd6-48b1-b883-f4007ac0b17b.gif)
 
 For more details, we recommend the following [video](https://www.youtube.com/watch?v=MGVdu39gT6k&t=394s&ab_channel=ADashofData).
 
 ## Language models with NLTK
+![natural_language_toolkit](https://user-images.githubusercontent.com/78571802/148105302-8f285e93-e08f-4b48-b993-8aaef522d9ea.png)
 
 For further reading, consider this [Medium Article](https://medium.com/swlh/language-modelling-with-nltk-20eac7e70853).
 
 Also refer to the [MLE documentation](https://www.nltk.org/api/nltk.lm.html).
 
 ## Maximum Likelihood Estimator from NLTK
+![Maximum_Likelihood_Estimation](https://user-images.githubusercontent.com/78571802/148105883-7d475804-d254-4285-8874-a88c22aec726.jpeg)
 
 This [article](https://www.kaggle.com/alvations/n-gram-language-model-with-nltk/notebook) served as a starting point to our endeavor in text prediction.
 
