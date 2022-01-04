@@ -191,8 +191,12 @@ We used Google's Text-To-Speech library to generate mp4 files of our Markov Chai
 
 Here are lyric snippets for each genre:
 
-### Snippet of Country MLE Algorithm
+### Snippets of Country MLE Algorithm
 https://user-images.githubusercontent.com/88758706/147867791-15da3590-8103-4dcc-8985-bb47984f72ad.mp4
+
+https://user-images.githubusercontent.com/88758706/148135352-bfab0ed0-dddf-4f73-9627-23f7858ec6fd.mp4
+
+
 
 ### Snippet of EDM MLE Algorithm
 https://user-images.githubusercontent.com/88758706/147998783-cf94e0ca-1ecc-458b-afba-5ed73c1e9237.mp4
