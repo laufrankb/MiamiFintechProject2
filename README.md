@@ -119,8 +119,10 @@ The specific API endpoints used were:
 
 ### AI Generated Country Lyrics
 https://user-images.githubusercontent.com/88758706/147867791-15da3590-8103-4dcc-8985-bb47984f72ad.mp4
+
 ### AI Generated EDM Lyrics
-https://github.com/laufrankb/MiamiFintechProject2/blob/9a8da13b8c942c8381ba97332591355d6a127f8f/edm_nb/mle_lyrics_EDM.mp4
+
+https://user-images.githubusercontent.com/88758706/147998783-cf94e0ca-1ecc-458b-afba-5ed73c1e9237.mp4
 
 ### Snippet of Hip Hop Markov
 
