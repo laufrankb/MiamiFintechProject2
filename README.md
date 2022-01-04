@@ -235,11 +235,11 @@ https://user-images.githubusercontent.com/78571802/148133094-b3e24bdb-d81d-4384-
 
 Some examples from the Country Lyrics Model:
 
-The probability of 'woman' appearing in the text is: 0.00139
+- The probability of 'woman' appearing in the text is: 0.00139
 
-The probability of 'feel like' to be followed by 'a' is: 0.5
+- The probability of 'feel like' to be followed by 'a' is: 0.5
 
-The probability of 'feel like a' to be followed by woman' is: 1.0
+- The probability of 'feel like a' to be followed by woman' is: 1.0
 
 ![unigram](country_nb/images/unigram_scores_mle.png)
 
@@ -252,15 +252,15 @@ The probability of 'feel like a' to be followed by woman' is: 1.0
 
 From the Country Lyrics Model:
 
-The perplexity of 'aliens are' is: inf
+- The perplexity of 'aliens are' is: inf
 
-The perplexity of 'old man' is: 7.667
+- The perplexity of 'old man' is: 7.667
 
-The perplexity of 'bell rock' is: 3.4
+- The perplexity of 'bell rock' is: 3.4
 
-The perplexity of 'jingle bell' is: 1.333
+- The perplexity of 'jingle bell' is: 1.333
 
-The perplexity of 'country boy' is: 1.273
+- The perplexity of 'country boy' is: 1.273
 
 
 Feel free to read up more on [Perplexity and Language Models](https://towardsdatascience.com/perplexity-in-language-models-87a196019a94) or watch this [video](https://www.youtube.com/watch?v=NCyCkgMLRiY&ab_channel=ArtificialIntelligence-AllinOne).
