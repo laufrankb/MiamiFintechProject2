@@ -304,6 +304,7 @@ These are the frequencies of each Named Entity found in the Top Chart Songs for 
 
 ### Limitations
 
+- We were not able to compare MLE to other language model algorithms due to time constraints.
 
 - Detokenizer: Returned text is readable, but lacking in punctuation and paragraph structure.
 
