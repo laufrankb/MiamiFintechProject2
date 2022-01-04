@@ -49,8 +49,6 @@ A Markov chain is a stochastic technique, but it differs from a general stochast
 
 For more details, we recommend the following [video](https://www.youtube.com/watch?v=MGVdu39gT6k&t=394s&ab_channel=ADashofData).
 
-### Here is a look at our code with Markov Chains
-![markov_gif](https://user-images.githubusercontent.com/78571802/148111847-1577f6eb-9936-42cf-83cc-7abdd400b69d.gif)
 
 ## Language models with NLTK
 ![natural_language_toolkit](https://user-images.githubusercontent.com/78571802/148105302-8f285e93-e08f-4b48-b993-8aaef522d9ea.png)
@@ -66,8 +64,6 @@ This [article](https://www.kaggle.com/alvations/n-gram-language-model-with-nltk/
 
 Check out the [Language Model Module](https://www.nltk.org/api/nltk.lm.html) from NTLK for more information on the different models to choose from.
 
-### Here is a look at our code with Maximum Likelihood Estimator
-![mle_gif](https://user-images.githubusercontent.com/78571802/148111899-4bfbd4e3-b225-4bc0-a1f3-46c8fdef0ee9.gif)
 
 # Natural Language Processing
 
@@ -185,6 +181,12 @@ We used Google's Text-To-Speech library to generate mp4 files of our Markov Chai
 
 ![gtts](gtts.png)
 
+### Here is a look at our code with Markov Chains
+![markov_gif](https://user-images.githubusercontent.com/78571802/148111847-1577f6eb-9936-42cf-83cc-7abdd400b69d.gif)
+
+### Here is a look at our code with Maximum Likelihood Estimator
+![mle_gif](https://user-images.githubusercontent.com/78571802/148111899-4bfbd4e3-b225-4bc0-a1f3-46c8fdef0ee9.gif)
+
 Here are lyric snippets for each genre:
 
 ### Snippet of Country MLE Algorithm
@@ -210,7 +212,7 @@ https://user-images.githubusercontent.com/78571802/147998991-dcebb568-14ed-433b-
 https://user-images.githubusercontent.com/78571802/147999040-23548f23-577c-4792-980f-8c48bc1f1d18.mp4
 
 
-### Snippet of Pop MLE Algorithm
+### Pop Text MLE Algorithm
 https://user-images.githubusercontent.com/78571802/147999052-7a7eaa10-e389-4bdb-bf99-449a0c4c0fe0.mp4
 
 
